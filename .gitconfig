@@ -1,0 +1,10 @@
+[user]
+    email = tapion@tapion.it
+    name = tapion
+[core]
+    editor = vim
+[color]
+    ui = auto
+[push]
+    default = simple
+
